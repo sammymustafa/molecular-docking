@@ -1,4 +1,4 @@
-# Molecular Docking Study
+# Molecular Docking
 This project presents a comprehensive study on molecular docking, a crucial method in the field of computational drug discovery. Emphasizing the application of advanced neural networks and the DiffDock system, the study explores the intricacies of molecular interactions and binding predictions. A key focus of this project is the implementation of the EGNN (Equivariant Graph Neural Network) and the evaluation of DiffDock across various denoising steps, providing valuable insights into the accuracy and reliability of docking predictions.
 
 ## Key Highlights
